@@ -5,7 +5,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/denis stici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denis stici" height="30" width="40" /></a>
 <a href="https://instagram.com/denis_stici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="denis_stici" height="30" width="40" /></a>
-</p>![Uploading Banner.gif…]()
+</p>
+
+![Banner](https://github.com/user-attachments/assets/12dcbc39-ccb9-407a-a228-1a10553ffe66)
 
 
 <h3 align="left">Languages and Tools:</h3>
