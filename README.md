@@ -7,7 +7,7 @@
 <a href="https://instagram.com/denis_stici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="denis_stici" height="30" width="40" /></a>
 </p>
 
-![Banner](https://github.com/user-attachments/assets/12dcbc39-ccb9-407a-a228-1a10553ffe66)
+![ezgif-19cdebb6ba87f9](https://github.com/user-attachments/assets/0eac58cc-a2a9-42e6-8ac1-da3e167a3396)
 
 
 <h3 align="left">Languages and Tools:</h3>
