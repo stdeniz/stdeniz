@@ -7,7 +7,6 @@
 <a href="https://instagram.com/denis_stici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="denis_stici" height="30" width="40" /></a>
 </p>
 
-![Uploading aki-aoki-work-desk-source-beta-export.jpg…]()
 
 
 <h3 align="left">Languages and Tools:</h3>
