@@ -6,8 +6,8 @@
 <a href="https://linkedin.com/in/denis stici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denis stici" height="30" width="40" /></a>
 <a href="https://instagram.com/denis_stici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="denis_stici" height="30" width="40" /></a>
 </p>
-![Banner (1)](https://github.com/user-attachments/assets/ee854bfd-bc2c-4e85-a4c4-e0e8e28b1238)
 
+![Uploading aki-aoki-work-desk-source-beta-export.jpg…]()
 
 
 <h3 align="left">Languages and Tools:</h3>
